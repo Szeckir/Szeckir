@@ -1,6 +1,7 @@
 # Hello, I am Thomaz Szeckir 🖐️
 ### About me
 - Computer Science student in the 3th semester at PUCRS 📖
+- Currently in a Computer Science Certificate at Full Sail University - FL
 - Development intern at Orpen 💻
 
 ### Daily Languages 
